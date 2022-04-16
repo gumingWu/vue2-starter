@@ -1,0 +1,30 @@
+{
+  "name": "vue2-starter",
+  "version": "1.0.0",
+  "description": "简单的vue2模板",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumingWu/vue2-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumingWu/vue2-starter/issues"
+  },
+  "homepage": "https://github.com/gumingWu/vue2-starter#readme",
+  "dependencies": {
+    "vue": "2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@vue/cli": "^5.0.4",
+    "@vue/cli-service": "^5.0.4",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
