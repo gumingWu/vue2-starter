@@ -1,6 +1,8 @@
 <template>
   <div>
     {{ msg }}
+    <br />
+    {{ test }}
   </div>
 </template>
 
@@ -10,7 +12,13 @@ export default {
   data() {
     return {
       msg: "im Apaaap",
+      str: "test",
     };
+  },
+  computed: {
+    test() {
+      return this.$store.getters.me + ` my test str: ${this.str}`;
+    },
   },
 };
 </script>
