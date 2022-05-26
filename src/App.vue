@@ -3,7 +3,7 @@
     {{ msg }}
     <card2 style="height: 500px">
       <h1 slot="header">这是标题</h1>
-      此处都是body区域
+      此处都是body区aaaa域
       <footer slot="footer">
         这是底部栏这是底部栏这是底部栏这是底部栏这是底部栏<br />asdasdasdad
       </footer>
