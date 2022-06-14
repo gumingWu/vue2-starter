@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/gumingWu/vue2-starter#readme",
   "dependencies": {
-    "vue": "2"
+    "element-ui": "^2.15.9",
+    "vue": "2.6.14"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",

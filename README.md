@@ -19,3 +19,5 @@ git checkout -b 分支名(feat-card)
 ```
 git push origin 分支名(feat-card)
 ```
+## el-menu-cover
+该分支用于二次封装el-menu-item，使得菜单节点既能点击跳转，也能有下拉菜单
