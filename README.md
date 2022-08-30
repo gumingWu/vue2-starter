@@ -19,3 +19,7 @@ git checkout -b 分支名(feat-card)
 ```
 git push origin 分支名(feat-card)
 ```
+
+## feat-vue-file-order
+
+用于测试用eslint控制vue文件的option api的顺序
